@@ -1,13 +1,13 @@
 <?php
 session_start();
 error_reporting(0);
-
+//fixed a bug here
 include('includes/dbconnection.php');
 ?>
 <!DOCTYPE html>
 <html>
 <head>
-<title>Online DJ Management System || About Us</title>
+<title>Online DJ Management System || About Dj Management System</title>
 <link href="css/bootstrap.css" rel='stylesheet' type='text/css' />
 <!-- Custom Theme files -->
 <link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
